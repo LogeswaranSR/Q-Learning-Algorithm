@@ -9,4 +9,9 @@ Frozen Lake Environment is an Game environment available in OpenAI GYM package. 
 For more info: [Frozen Lake Environment](https://www.gymlibrary.dev/environments/toy_text/frozen_lake/)
 
 # Simulation
+
+Simulation Episode recorded using RecordVideo class in [Gym Wrappers](https://www.gymlibrary.dev/api/wrappers/)
+
 ![q_learning_gif](https://github.com/LogeswaranSR/Q-Learning-Algorithm/assets/131794661/0619f4f7-399c-4e3e-ad86-ad3d32c8e89c)
+
+**Implementation in Notebook**
